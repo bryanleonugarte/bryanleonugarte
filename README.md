@@ -29,7 +29,7 @@ manual work every two weeks.
 |---|---|
 | Data & Analytics | Python (Pandas) · Power BI · Power Query · Excel (Advanced) |
 | Geospatial | QGIS |
-| Currently learning | SQL |
+| Currently learning | Python · SQL |
 
 ---
 

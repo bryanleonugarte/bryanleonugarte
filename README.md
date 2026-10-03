@@ -44,7 +44,7 @@ inform precision irrigation decisions.
 ## 📫 Contact
 
 - 💼 LinkedIn: [Bryan León Ugarte](https://www.linkedin.com/in/bryan-aquiles-le%C3%B3n-ugarte-13a76b156/)
-- 📧 Email: bryanleon.u@gmail.com
+- 📧 Email: ugarte.17.21@gmail.com
 <!--
 **bryanleonugarte/bryanleonugarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
